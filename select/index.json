@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "firefly",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-04T03:01:07.270903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Mura Masa feat. Nao",
+      "has_synced": true,
+      "path": "select/01_Firefly_Mura_Masa_feat._Nao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Firefly (feat. Nao)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/02_Firefly_(feat._Nao)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Firefly (feat. Nao)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/03_Firefly_(feat._Nao)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/04_Firefly_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Firefly (Receiver Mix)",
+      "artist": "Alpha",
+      "has_synced": true,
+      "path": "select/05_Firefly_(Receiver_Mix)_Alpha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "NGeeYL",
+      "has_synced": false,
+      "path": "select/06_Firefly_NGeeYL.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Airiel",
+      "has_synced": false,
+      "path": "select/07_Firefly_Airiel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Alpha",
+      "has_synced": false,
+      "path": "select/08_Firefly_Alpha.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "American Music Club",
+      "has_synced": true,
+      "path": "select/09_Firefly_American_Music_Club.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/10_Firefly_Halou.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/11_Firefly_TNT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "IDA",
+      "has_synced": false,
+      "path": "select/12_Firefly_IDA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Elis",
+      "has_synced": true,
+      "path": "select/13_Firefly_Elis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/14_Firefly_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Fates Warning",
+      "has_synced": true,
+      "path": "select/15_Firefly_Fates_Warning.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Firefly",
+      "artist": "Heavens to Betsy",
+      "has_synced": true,
+      "path": "select/16_Firefly_Heavens_to_Betsy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "firefly",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_firefly_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
